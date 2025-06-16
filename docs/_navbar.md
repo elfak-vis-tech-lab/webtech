@@ -1,4 +1,4 @@
-<!-- _navbar.md -->
+<!-- _navbar.md
 
 * Getting started
 
@@ -12,4 +12,4 @@
   * [Themes](themes.md)
   * [Using plugins](plugins.md)
   * [Markdown configuration](markdown.md)
-  * [Language highlight](language-highlight.md)
+  * [Language highlight](language-highlight.md) -->
