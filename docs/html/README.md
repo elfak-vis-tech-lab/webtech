@@ -231,7 +231,7 @@ HTML pruža šest nivoa naslova, od najvažnijeg (h1) do najmanje važnog (h6):
 <details>
 <summary style="cursor:pointer;">👆 Rezultat</summary>
     <div style="background-color:#EEEEEE;padding:15px">
-        <img src="/html/slika.jfif" alt="Opis slike" width="200" height="200" />
+        <img src="/webtech/html/slika.jfif" alt="Opis slike" width="200" height="200" />
     </div>
 </details>
 
@@ -354,7 +354,7 @@ HTML pruža šest nivoa naslova, od najvažnijeg (h1) do najmanje važnog (h6):
 Semantički HTML koristi elemente koji jasno opisuju svoje značenje i svrhu. Ovo poboljšava _accessibility_, SEO i održivost koda.
 
 <p style="align:center;">
-    <img src="/html/semantic.jpg" height="300" style="display:block; margin-left:auto; margin-right:auto;" />
+    <img src="/webtech/html/semantic.jpg" height="300" style="display:block; margin-left:auto; margin-right:auto;" />
 </p>
 
 ### Header (zaglavlje)
