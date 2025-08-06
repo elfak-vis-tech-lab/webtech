@@ -3,3 +3,4 @@
 * [Git](/git/)
 * [HTML](/html/)
 * [CSS](/css/)
+* [Javascript](/js/)
